@@ -32,9 +32,6 @@ a cryptix é uma empresa que oferece soluções de segurança focadas na proteç
 ## informações
 
 - site oficial: em desenvolvimento
-- discord: [seu link do discord aqui]
-- email: [seu email aqui]
-
 ## licença
 
 todos os direitos reservados a cryptix. a redistribuição, modificação ou engenharia reversa dos arquivos protegidos pela cryptix é estritamente proibida. o uso deste serviço implica na aceitação dos termos de uso e políticas de segurança.
